@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.772c6227.chunk.css","sources":["webpack:///Button.css"],"sourcesContent":[".button {\n  color: white;\n  font-weight: bold;\n  background-color: blueviolet;\n  border: none;\n  padding: .8em 1em;\n  border-radius: .2rem;\n}"],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;","sourceRoot":""}
