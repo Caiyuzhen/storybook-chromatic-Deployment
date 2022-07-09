@@ -7,6 +7,7 @@ on: push
 
 # List of jobs
 jobs:
+  #🔥🔥👇注意，commit 的名称得是这个才能运行 github 的 actions
   test:
     # Operating System
     runs-on: ubuntu-latest
