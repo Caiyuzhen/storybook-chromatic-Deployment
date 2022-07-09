@@ -1,8 +1,8 @@
 .button {
   color: white;
   font-weight: bold;
-  background-color: rgb(62, 44, 227);
+  background-color: rgb(72, 52, 255);
   border: none;
-  padding: 1.5em 1.2em;
+  padding: 1.5em 2em;
   border-radius: 2rem;
 }
