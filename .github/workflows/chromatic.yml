@@ -19,8 +19,7 @@ jobs:
         # Options required for Chromatic's GitHub Action
         with:
           # Chromatic projectToken, see https://storybook.js.org/tutorials/intro-to-storybook/react/en/deploy/ to obtain it
-        projectToken: {{ secrets.ZEN_TOKEN }}
-        #注意不能暴露 github 的令牌
+        projectToken: {{ a7335a3cf25a }}
         token: ${{ secrets.GITHUB_TOKEN }}
 
      
