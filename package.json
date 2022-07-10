@@ -41,5 +41,10 @@
     "@storybook/preset-create-react-app": "^3.0.0",
     "@storybook/react": "^5.3.19",
     "chromatic": "^6.7.0"
+  },
+  
+  "storybook": {
+	"url": "https://main--62c7f82d34e6e12f9fdbc97d.chromatic.com"
   }
+  
 }
